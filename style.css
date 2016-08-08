@@ -1,0 +1,224 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+   background-image: url('img/bg.jpg');
+   background-color:black;
+    color: white;
+    font-size:100%;
+    font-family: Arial, 'Lucida Sans Unicode';
+    text-align:left;
+}
+.logo {
+    height: 10px;
+    width: 100%;
+    background-color:black; 
+    margin-bottom: 5px;
+    margin-left:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: left;
+    letter-spacing: -2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;   
+}
+.punchline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5px;
+    font-weight: bold;
+    color: yellow;
+    padding-left: 20px;
+    padding-top: -5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color:yellow;
+}
+
+a:hover, a:active {
+    background-color: yellow;
+    color: #ffffff;
+}
+
+.body {
+    margin: 0 auto;
+    width: 70%;
+    clear:both;
+}
+
+.mainHeader img{
+    width:30%;
+    height: auto;
+    margin-top: 2%;
+    margin-bottom: 0;
+    padding-bottom:20px;
+}
+
+.mainHeader nav{
+    background-color: black;
+    height: 40px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-bottom: 0;
+    margin-top:0;
+    float:right;
+    padding-bottom: : 5px;
+}
+
+.mainHeader nav ul{
+    list-style: none;
+    margin: 0 auto;
+}
+
+.mainHeader nav ul li{
+    float: left;
+    display: inline;
+}
+
+.mainHeader nav a:link, .mainHeader nav a:visited{
+    color:#fff;
+    display:inline-block;
+    padding: 10px 25px;
+    height: 20px;
+}
+
+.mainHeader nav a:hover, .mainHeader nav a:active,
+.mainHeader nav .active a:link, .mainHeader nav.active a.visited{
+    background-color:yellow;
+    text-shadow:none;
+}
+
+.mainHeader nav ul li a{
+    border-radius:5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}       
+ 
+.mainContent{
+     background-color:black;
+        line-height:25px;
+        border-radius:5px;
+        -moz-border-radius:5px;
+        -webkit-border-radius: 5px;
+}       
+    
+.content {
+    background-color:black;
+        width:50%;
+        float:left;
+        
+}
+    
+.topcontent{
+        background-color:gray;
+        border-radius:5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding: 3% 5%;
+      
+      
+}   
+    
+.bottomcontent {
+    background-color:gray;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+    padding: 3% 5%;
+    margin-top: 2%;
+}    
+
+.top-sidebar {
+    width: 40%;
+    float:left;
+    background-color: gray;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+    margin: 0 0 1% 1%;
+    padding: 2% 3%;
+    
+}
+
+.post-info{
+    font-style:italic;
+    color:#999;
+    font-size:90%;
+}
+
+.bottom-sidebar{
+   width:40%;
+    float:left;
+    background-color:gray;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+    margin-left:1%;
+    margin-bottom:1%;
+    padding: 2% 3%;
+}
+.mainFooter{
+    width:100%;
+    height:50px;
+    float:left;
+    background-color:gray;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+    margin-top:10px;
+    margin-bottom:2%;
+    text-align: center;
+    padding-top:10px;
+}
+.mainFooter p{
+    width:92%;
+    margin:10px auto;
+    color:#fff;
+    text-align: center;
+}
+
+.aboutcontent{
+   width:98%;
+    float:left;
+    background-color:#fff;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+   padding: 1% 1%;
+    margin-bottom:1%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
